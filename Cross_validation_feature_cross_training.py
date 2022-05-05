@@ -1,20 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jul 19 09:20:11 2021
-
-@author: lenovo
-"""
-
-
-# -*- coding: utf-8 -*-
-"""
-Created on Fri May 14 16:17:29 2021
-
-@author: lenovo
-"""
-
-
-
 import numpy as np
 import pandas as pd
 import numpy as np
