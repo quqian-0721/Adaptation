@@ -1,18 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jul 26 15:18:28 2021
-
-@author: lenovo
-"""
-
-
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jul 10 01:33:33 2021
-
-@author: lenovo
-"""
-
 import numpy as np
 import pandas as pd
 import numpy as np
@@ -104,10 +89,6 @@ color_dict={0:'#E21C21',1:'#3A7CB5',2:'#51AE4F',3:'#F58220'}
 for i in range(len(all_sites_lat_1)):
 
     m.scatter(all_sites_lon_1[i], all_sites_lat_1[i], c=color_dict[stage_type[i]],s=20)
-
-
-
-
 
 # plot=m.scatter(all_sites_lon, all_sites_lat, c=gbr_values,s=20, alpha=0.4,cmap=matplotlib.cm.seismic,vmin=-0.5, vmax=0.3)
 
